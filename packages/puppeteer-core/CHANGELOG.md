@@ -1,5 +1,20 @@
 # Changelog
 
+## [25.18.2](https://github.com/puppeteer/puppeteer/compare/puppeteer-core-v25.18.1...puppeteer-core-v25.18.2) (2026-11-18)
+
+
+### 🛠️ Fixes
+
+* **bidi:** use defaultNavigationTimeout for network-idle waits ([#15820](https://github.com/puppeteer/puppeteer/issues/15820)) ([e82d656](https://github.com/puppeteer/puppeteer/commit/e82d656004488cc2f635f878da7cede1b4631235))
+* use the payload of the highest priority in Cooperative Intercept Mode ([#15825](https://github.com/puppeteer/puppeteer/issues/15825)) ([4ee6cff](https://github.com/puppeteer/puppeteer/commit/4ee6cff57442b7e03f7b27fb8018ee5ebaeab68b))
+
+
+### Dependencies
+
+* The following workspace dependencies were updated
+  * dependencies
+    * @puppeteer/browsers bumped from 3.2.7 to 3.2.8
+
 ## [25.18.1](https://github.com/puppeteer/puppeteer/compare/puppeteer-core-v25.18.0...puppeteer-core-v25.18.1) (2026-11-17)
 
 

@@ -1,5 +1,12 @@
 # Changelog
 
+## [3.2.8](https://github.com/puppeteer/puppeteer/compare/browsers-v3.2.7...browsers-v3.2.8) (2026-11-18)
+
+
+### 🛠️ Fixes
+
+* **browsers:** resolve the executable path of old Windows Chromium builds ([#15821](https://github.com/puppeteer/puppeteer/issues/15821)) ([1b2e11e](https://github.com/puppeteer/puppeteer/commit/1b2e11e4fbedfe72bde6d2962c0127a2bd93db4f))
+
 ## [3.2.7](https://github.com/puppeteer/puppeteer/compare/browsers-v3.2.6...browsers-v3.2.7) (2026-11-10)
 
 
